@@ -1,0 +1,14 @@
+{
+  "name": "assistant_one",
+  "version": "0.0.1",
+  "description": "ENTOURAGE Downton Assistant One",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian von Kurnatowski <florian@enx.com>",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
